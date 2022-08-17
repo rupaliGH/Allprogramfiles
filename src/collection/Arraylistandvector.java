@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.ListIterator;
 
 public class Arraylistandvector {
-
+//made some changes
 	public static void main(String[] args)
 	{
 	ArrayList al=new ArrayList();
